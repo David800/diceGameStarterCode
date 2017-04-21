@@ -77,6 +77,8 @@ body {
 }
 .dice-2 {
   background-image: url('../img/2.png');
+  width: 100px;
+  height:100px;
 }
 .dice-3 {
   background-image: url('../img/3.png');
